@@ -1,3 +1,5 @@
+[![Build Status](https://circleci.com/gh/cloudify-examples/jboss-mysql-blueprint.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/cloudify-examples/jboss-mysql-blueprint)
+
 # jboss-mysql-blueprint
 A JBoss-MySQL admin sample blueprint for OpenStack and Hybrid (OpenStack and vSphere)
 
